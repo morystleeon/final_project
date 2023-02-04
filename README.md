@@ -1,5 +1,6 @@
 # Final Project
 RESTful API for Digital Book Application are made by:
+
 [![N|Solid](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodesource.com/products/nsolid) [![N|Solid](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://nodesource.com/products/nsolid) [![N|Solid](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://nodesource.com/products/nsolid) 
 [![N|Solid](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://nodesource.com/products/nsolid) [![N|Solid](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://nodesource.com/products/nsolid) [![N|Solid](https://img.shields.io/badge/POSTMAN-FF5722?style=for-the-badge&logo=Postman&logoColor=white)](https://nodesource.com/products/nsolid)
 
@@ -10,7 +11,7 @@ RESTful API for Digital Book Application are made by:
 
 ## Architecture diagram of the Merchant Service
 ___
-![(2) 2023 Thumbnail Youtube HH dan Sunday SOHO  (4)](https://user-images.githubusercontent.com/116268411/216748509-524c46ab-b494-4969-96b6-e3edfad0df15.png)
+![(2) 2023 Thumbnail Youtube HH dan Sunday SOHO  (5)](https://user-images.githubusercontent.com/116268411/216748901-de99ab78-8fb9-480e-9548-502e627b36e3.png)
 
 
 ## Entity Relational Diagram of the Merchant Service Data Model
